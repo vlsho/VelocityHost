@@ -87,9 +87,9 @@ For detailed guides and technical documentation on how to set up and manage your
 
 If you need help, our support team is here for you. You can contact us through the following methods:
 
-- **Support Email**: support@velocityhost.com
+- **Support Email**: support@vlsho.com
 - **Live Chat**: Available on our website (24/7)
-- **Phone**: +1 (800) 123-4567
+- **Phone**: +216 50792746
 - **Social Media**: [Discord](https://discord.gg/velocityhost-ltd-931176857305497641)
 
 
